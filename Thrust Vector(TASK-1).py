@@ -1,8 +1,8 @@
-
 import numpy as np
 import itertools
 
 # ======================
+# LUNAR LANDER MDP
 # ======================
 
 # Environment Setup
