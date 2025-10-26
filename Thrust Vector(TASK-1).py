@@ -3,7 +3,6 @@ import numpy as np
 import itertools
 
 # ======================
-# LUNAR LANDER MDP (PROPERLY FIXED)
 # ======================
 
 # Environment Setup
